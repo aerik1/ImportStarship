@@ -15,3 +15,5 @@ Fair warnings!
 I've only tested this for ships built with the CRB. So other things may cause crashes. Look at the console in the API page for possible errors as well. 
 
 Expansion bays and systems are lumped into one pane instead of separated. This seems to be a bug in the sheet as I can't shift systems manually either. 
+
+Also, all systems need to be powered off and then back on for the sheet to recognize the correct system; shields, armor, computer, and what-not.
